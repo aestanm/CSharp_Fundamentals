@@ -1,0 +1,17 @@
+C:\Users\aestan\CURSO_C#\soluciones\proy01\bin\Debug\net6.0\proy01.exe
+C:\Users\aestan\CURSO_C#\soluciones\proy01\bin\Debug\net6.0\proy01.deps.json
+C:\Users\aestan\CURSO_C#\soluciones\proy01\bin\Debug\net6.0\proy01.runtimeconfig.json
+C:\Users\aestan\CURSO_C#\soluciones\proy01\bin\Debug\net6.0\proy01.dll
+C:\Users\aestan\CURSO_C#\soluciones\proy01\bin\Debug\net6.0\proy01.pdb
+C:\Users\aestan\CURSO_C#\soluciones\proy01\obj\Debug\net6.0\proy01.csproj.AssemblyReference.cache
+C:\Users\aestan\CURSO_C#\soluciones\proy01\obj\Debug\net6.0\proy01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aestan\CURSO_C#\soluciones\proy01\obj\Debug\net6.0\proy01.AssemblyInfoInputs.cache
+C:\Users\aestan\CURSO_C#\soluciones\proy01\obj\Debug\net6.0\proy01.AssemblyInfo.cs
+C:\Users\aestan\CURSO_C#\soluciones\proy01\obj\Debug\net6.0\proy01.csproj.CoreCompileInputs.cache
+C:\Users\aestan\CURSO_C#\soluciones\proy01\obj\Debug\net6.0\proy01.dll
+C:\Users\aestan\CURSO_C#\soluciones\proy01\obj\Debug\net6.0\refint\proy01.dll
+C:\Users\aestan\CURSO_C#\soluciones\proy01\obj\Debug\net6.0\proy01.pdb
+C:\Users\aestan\CURSO_C#\soluciones\proy01\obj\Debug\net6.0\proy01.genruntimeconfig.cache
+C:\Users\aestan\CURSO_C#\soluciones\proy01\obj\Debug\net6.0\ref\proy01.dll
+C:\Users\aestan\CURSO_C#\soluciones\proy01\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\aestan\CURSO_C#\soluciones\proy01\obj\Debug\net6.0\proy01.csproj.CopyComplete
