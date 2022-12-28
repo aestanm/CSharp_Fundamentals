@@ -9,7 +9,7 @@ Vectores();
 // NoRepetidos();
 
 void InvertirPalabra(){    
-    Console.WriteLine($"Escriba una palabra a invertir: ");
+    Console.WriteLine($"Escriba una palabra a invertirla: ");
     string? palabra = Console.ReadLine();
 
     if(palabra is not null){
