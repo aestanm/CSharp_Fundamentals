@@ -10,6 +10,7 @@ Vectores();
 
 void InvertirPalabra(){    
     Console.WriteLine($"Escriba una palabra a invertirla: ");
+    // System.Console.WriteLine(); // se agrega esta linea en la rama dev
     string? palabra = Console.ReadLine();
 
     if(palabra is not null){
